@@ -1,6 +1,6 @@
 #Learning-Ant
 ---
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=“29px”>Hi , I'm JeaSeong Park</h1>
+<h3 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=“29px”>Hi , I'm JeaSeong Park</h3>
 <h3 align="center">A Person Studying to become A Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Spring-Tool-Suite**
 
-- I'm gonna to learn about <img src="https://img.shields.io/badge/React?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Python?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/TypeScript?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp etc...
+- **I want to learn** <img src="https://img.shields.io/badge/Node.js-3766AB?style=flat-square&logo=Node-dot-js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp etc... *in the future*
 
 
 - 📫 How to reach me **a86007681@gmail.com or jspark9206@naver.com**

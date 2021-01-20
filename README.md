@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Learning-Ant/Learning-Ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm JeaSeong Park</h1>
 <h3 align="center">A Person Studying to become A back-end developer</h3>
 
@@ -21,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=learning-ant&show_icons=true&locale=en&layout=compact" alt="learning-ant" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learning-ant&show_icons=true&locale=en" alt="learning-ant" /></p>
--->

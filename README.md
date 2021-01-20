@@ -1,20 +1,24 @@
 #Learning-Ant
 ---
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=“10px” />Hi , I'm JeaSeong Park
+### 👋Hi , I'm JeaSeong Park
 ### A Person Studying to become A Web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </p>
 
 
 
-- 🌱 I’m currently learning **Spring-Tool-Suite**
+- 🌱 I’m currently learning **Spring-Tool-Suite**<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/>&nbsp; & <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+
 
 - **I want to learn** <img src="https://img.shields.io/badge/Node.js-3766AB?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp; etc... *in the future*
 
 
-- 📫 How to reach me **a86007681@gmail.com or jspark9206@naver.com**
+- 📫 How to reach me **a86007681@gmail.com 
+<a href="mailto:a86007681@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>or
+jspark9206@naver.com
+<a href="mailto:jspark9206@naver.com"><img src="https://img.shields.io/badge/Naver-3766AB?style=flat-square"/></a>**
 
 
 <h3 align="left">Languages and Tools:</h3>

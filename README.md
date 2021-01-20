@@ -15,9 +15,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp; etc... *in the future*
 
 
-- 📫 How to reach me **a86007681@gmail.com 
-<a href="mailto:a86007681@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Python&logoColor=white"/></a>or
-jspark9206@naver.com
+- 📫 How to reach me <a href="mailto:a86007681@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Python&logoColor=white"/></a>or
 <a href="mailto:jspark9206@naver.com"><img src="https://img.shields.io/badge/Naver-00C244?style=flat-square"/></a>**
 
 

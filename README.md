@@ -1,7 +1,7 @@
 JaeSeong Park <span align="right"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </span>
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi , I'm JeaSeong Park 
-### A Person Studying to become A Web developer
+### Studying to become A Web developer
 <br/>
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> & <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>

@@ -33,8 +33,7 @@ Learning-Ant<span align="right"> <img src="https://komarev.com/ghpvc/?username=l
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=learning-ant&show_icons=true&locale=en&layout=compact" alt="learning-ant" /></p>
-
+## About My Github stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learning-ant&show_icons=true&locale=en" alt="learning-ant" /></p>
 
 ## Projects

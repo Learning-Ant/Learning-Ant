@@ -1,6 +1,6 @@
 #Learning-Ant
 ---
-#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=“29px”>Hi , I'm JeaSeong Park
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=“10px”>Hi , I'm JeaSeong Park
 #### A Person Studying to become A Web developer
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </p>

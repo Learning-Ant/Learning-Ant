@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm JeaSeong Park</h1>
-<h3 align="center">A Person Studying to become A back-end developer</h3>
+#Learning-Ant
+---
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=“29px”>Hi , I'm JeaSeong Park</h1>
+<h3 align="center">A Person Studying to become A Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=learning-ant" alt="learning-ant" /></a> </p>
+
 
 - 🌱 I’m currently learning **Spring-Tool-Suite**
+
+- I'm gonna to learn about <img src="https://img.shields.io/badge/React?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/TypeScript?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp etc...
+
 
 - 📫 How to reach me **a86007681@gmail.com or jspark9206@naver.com**
 

@@ -7,18 +7,18 @@
 
 
 
-- 🌱 I’m currently learning **Spring-Tool-Suite**<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/>&nbsp; & <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> & <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
-- **I want to learn** <img src="https://img.shields.io/badge/Node.js-3766AB?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
+- **I want to learn** <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp; etc... *in the future*
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp; etc... *in the future*
 
 
 - 📫 How to reach me **a86007681@gmail.com 
-<a href="mailto:a86007681@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>or
+<a href="mailto:a86007681@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Python&logoColor=white"/></a>or
 jspark9206@naver.com
-<a href="mailto:jspark9206@naver.com"><img src="https://img.shields.io/badge/Naver-3766AB?style=flat-square"/></a>**
+<a href="mailto:jspark9206@naver.com"><img src="https://img.shields.io/badge/Naver-00C244?style=flat-square"/></a>**
 
 
 <h3 align="left">Languages and Tools:</h3>

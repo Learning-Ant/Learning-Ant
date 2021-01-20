@@ -2,11 +2,7 @@ Learning-Ant<span align="right"> <img src="https://komarev.com/ghpvc/?username=l
 ---
 ### 👋Hi , I'm JeaSeong Park
 ### A Person Studying to become A Web developer
-
-
-
-
-
+<br/><br/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> & <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
@@ -17,8 +13,7 @@ Learning-Ant<span align="right"> <img src="https://komarev.com/ghpvc/?username=l
 
 - 📫 How to reach me <a href="mailto:a86007681@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Python&logoColor=white"/></a>or
 <a href="mailto:jspark9206@naver.com"><img src="https://img.shields.io/badge/Naver-00C244?style=flat-square"/></a>
-
-
+<br/><br/>
 ## Languages and Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -32,10 +27,10 @@ Learning-Ant<span align="right"> <img src="https://komarev.com/ghpvc/?username=l
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
+<br/><br/>
 ## About My Github stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learning-ant&show_icons=true&locale=en" alt="learning-ant" /></p>
-
+<br/><br/>
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=learning-ant&repo=Quiz)](https://github.com/Learning-Ant/Quiz)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=learning-ant&repo=STSStudy)](https://github.com/Learning-Ant/STSStudy)

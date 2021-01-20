@@ -1,9 +1,9 @@
-#Learning-Ant
+#Learning-Ant<p align="right"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </p>
 ---
 ### 👋Hi , I'm JeaSeong Park
 ### A Person Studying to become A Web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=learning-ant&label=Profile%20views&color=0e75b6&style=flat" alt="learning-ant" /> </p>
+
 
 
 

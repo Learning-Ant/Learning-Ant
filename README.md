@@ -39,3 +39,4 @@ JaeSeong Park <span align="right"> <img src="https://komarev.com/ghpvc/?username
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=learning-ant&repo=Quiz)](https://github.com/Learning-Ant/Quiz)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=learning-ant&repo=STSStudy)](https://github.com/Learning-Ant/STSStudy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YewonLimm&repo=personalColor_project)](https://github.com/YewonLimm/personalColor_project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=learning-ant&repo=B_Team)](https://github.com/Learning-Ant/B_Team)
